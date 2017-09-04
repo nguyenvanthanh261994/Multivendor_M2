@@ -1,0 +1,17 @@
+.vendor-list ul li {
+    text-align: center;
+    float: left;
+    height: 150px;
+    display: inline-block;
+    margin-right: 100px;
+}
+
+.vendor-list ul li img {
+    width: 100%;
+    height: 150px;
+}
+
+ul, li {
+    list-style: none !important;
+
+}
